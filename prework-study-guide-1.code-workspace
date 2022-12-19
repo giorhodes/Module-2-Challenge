@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/prework-study-guide-1"
+		},
+		{
+			"path": "../../Downloads/01-html-git-github"
+		},
+		{
+			"path": "../Challenge--Module--1"
+		},
+		{
+			"path": "../day-01/01-Stu-Your-First-Flex-Layout"
+		},
+		{
+			"path": "../day-01/02-Stu-Aligning-With-Flex-Items"
+		},
+		{
+			"path": "../Coding Bootcamp Files/Week 2 - CSS/02-css"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Module-2-Challenge"
+	}
+}
