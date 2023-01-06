@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../Coding Bootcamp Files/Week 4 - Javascript/04-javascript/day-01"
 		}
 	],
 	"settings": {
